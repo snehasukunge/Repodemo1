@@ -1,4 +1,4 @@
-public class number1to10
+public class Number1To10
 {
   public static void main(String args[])
 {
